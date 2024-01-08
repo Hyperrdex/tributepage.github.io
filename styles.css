@@ -1,0 +1,29 @@
+body{
+    margin: 20;
+    padding: 0;
+}
+
+.Xwidget1{
+    width: 550px;
+    height: 750px;
+}
+
+.pfpImg{
+    width: 500px;
+    height: 500px;
+}
+
+.instaProf{
+    width: 320px;
+    height: 440px;
+}
+
+.maps{
+    width: 400px;
+    height: 400px;
+}
+
+.spotify{
+    width: 100%;
+    height: auto;
+}
